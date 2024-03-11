@@ -6,4 +6,4 @@
 
 # 서브넷
 > vpc ID는 'skills-vpc'로 사용한다 </br>
-> 새 서브넷을 추가하며 각각 이름은 'skills-public,private-a,b'로 한다
+##새 서브넷 추가
