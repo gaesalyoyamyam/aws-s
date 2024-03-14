@@ -12,3 +12,7 @@ sudo systemctl enable httpd
 ```
 sudo systemctl restart httpd
 ```
+# index.html 옮기기
+```
+sudo mv index.html /var/www/html
+```
