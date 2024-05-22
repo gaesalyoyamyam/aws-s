@@ -1,4 +1,4 @@
-#사랑해요 쿨러스터
+## 사랑해요 쿨러스터
 ```
 apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
